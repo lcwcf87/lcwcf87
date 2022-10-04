@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a fresh graduate data scientist with experience in calibrating a probabilstic weather forecast using Artificial Nerual Network.
 <!--
 **lcwcf87/lcwcf87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
